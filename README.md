@@ -1,7 +1,6 @@
 # Faceify Labs
 
-A browser-based 3D facial analysis and aesthetic simulation workstation. Everything runs client-side: your camera feed and face data never leave the browser.
-
+A real-time facial deformation system that uses the same anatomical deformation model to drive both a 3D face and a live camera feed.
 It has two modes:
 
 - **Live AR** — applies aesthetic procedures to your live camera feed in real time, with no scan required.
